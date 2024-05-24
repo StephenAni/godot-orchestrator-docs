@@ -15,3 +15,4 @@ If you believe something is missing here, submit a <ExternalLink href="https://g
 
 * <ExternalLink href="https://www.youtube.com/watch?v=Y53M53RYa_0">Godot Visual Script is Back!</ExternalLink> - Credit: @Gamesfromscratch, February 2024.
 * <ExternalLink href="https://www.youtube.com/watch?v=eHo8kH3VV2c">I Tried Godot VisualScript In 2024 ( And Found An Alternative )</ExternalLink> - Credit: @Code_It_All, April 2024.
+<ExternalLink href="https://www.youtube.com/watch?v=RFoSDxaKjwg&t=171s">The Beginners guide to Godot 4.2 Visual scripting: Orchestrator 2.0!</ExternalLink> - Credit: @Visualcodinghub, May 2024.
